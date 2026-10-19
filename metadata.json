@@ -1,0 +1,6 @@
+{
+  "name": "Surat Property Finder",
+  "description": "Discover residential properties, apartments, villas, and residential plots in Surat, Gujarat with Surat Property Finder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
